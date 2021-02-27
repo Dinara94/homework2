@@ -1,0 +1,21 @@
+.listDone {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: rgba(34, 139, 34, 0.6);
+    border-radius: 8px;
+}
+
+.listDone:hover {
+    background-color: rgba(34, 139, 34, 1);
+}
+
+.listUndone {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: rgba(255, 255, 0, 0.6);
+    border-radius: 8px;
+}
+
+.listUndone:hover {
+    background-color: rgba(255, 255, 0, 1);
+}
